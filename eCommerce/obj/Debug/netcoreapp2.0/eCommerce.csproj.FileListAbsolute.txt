@@ -1,0 +1,12 @@
+C:\Users\Billy Bennett\Documents\eCommerce\bin\Debug\netcoreapp2.0\eCommerce.deps.json
+C:\Users\Billy Bennett\Documents\eCommerce\bin\Debug\netcoreapp2.0\eCommerce.runtimeconfig.json
+C:\Users\Billy Bennett\Documents\eCommerce\bin\Debug\netcoreapp2.0\eCommerce.runtimeconfig.dev.json
+C:\Users\Billy Bennett\Documents\eCommerce\bin\Debug\netcoreapp2.0\eCommerce.dll
+C:\Users\Billy Bennett\Documents\eCommerce\bin\Debug\netcoreapp2.0\eCommerce.pdb
+C:\Users\Billy Bennett\Documents\eCommerce\obj\Debug\netcoreapp2.0\eCommerce.csprojResolveAssemblyReference.cache
+C:\Users\Billy Bennett\Documents\eCommerce\obj\Debug\netcoreapp2.0\eCommerce.csproj.CoreCompileInputs.cache
+C:\Users\Billy Bennett\Documents\eCommerce\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Billy Bennett\Documents\eCommerce\obj\Debug\netcoreapp2.0\eCommerce.AssemblyInfoInputs.cache
+C:\Users\Billy Bennett\Documents\eCommerce\obj\Debug\netcoreapp2.0\eCommerce.AssemblyInfo.cs
+C:\Users\Billy Bennett\Documents\eCommerce\obj\Debug\netcoreapp2.0\eCommerce.dll
+C:\Users\Billy Bennett\Documents\eCommerce\obj\Debug\netcoreapp2.0\eCommerce.pdb
